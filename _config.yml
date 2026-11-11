@@ -1,0 +1,5 @@
+title: Study Stack
+description: Independent reviews of study and productivity tools, written by students.
+baseurl: "/jam-qa-thirdparty"
+url: "https://wespreadjam.github.io"
+markdown: kramdown
