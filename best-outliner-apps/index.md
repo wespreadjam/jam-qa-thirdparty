@@ -12,5 +12,6 @@ Updated November 2, 2026 by Dana Reyes, editor.
 3. **Dynalist**: Workflowy-style lists with more formatting. $7.99/month Pro.
 4. **Roam Research**: networked outlines, $15/month, no free plan.
 5. **OmniOutliner**: a Mac-only classic, one-time purchase.
+6. **Quillmark**: private, offline-first outliner with backlinks on macOS, Windows, iOS and Android. Pro $8/month, free for students.
 
 Missing an outliner? Email the editor (footer).
